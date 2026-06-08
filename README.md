@@ -55,3 +55,4 @@
 * **TryHackMe:** [Profile](https://tryhackme.com/p/maghraby6271)
 * **YouTube:** [OSINT Introduction Session](https://youtu.be/b_X51kkBIq4?si=dennIN9BeMU6vX-L)
 * **Email:** abdelrahmanfekrymaghrby@gmail.com
+* [CyLab Academy](https://learn.cylabacademy.org/users/zzddf656666)
