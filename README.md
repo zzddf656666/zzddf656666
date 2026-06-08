@@ -21,7 +21,8 @@
 * **Technical Member | Cyber Security Club - Arab Open University (AOU)** *(Feb 2023 - Oct 2023)*
   Researched emerging cyber threats. Delivered a recorded technical session introducing OSINT methodology and tooling (Sherlock, Shodan, FOCA).
 
-## 🚀 Security Projects & Assessments
+## 🚀 Security Projects, Assessments & Scripts
+
 ### [Thndr Security CTF - Internship Security Assessment](https://github.com/zzddf656666/Thndr-Security-CTF-Writeup)
 * Solo cloud-native penetration test against a live Amazon EKS environment (eu-central-1) - captured 4 of 5 flags.
 * Bypassed authentication via SQL injection and achieved RCE as root via OS command injection.
@@ -32,6 +33,10 @@
 * End-to-end detection platform combining behavioural and static analysis with real-time threat intelligence.
 * Integrated VirusTotal API and LLM APIs for semantic analysis of suspicious document structures.
 * Implemented MD5 hash-based detection and a severity-scoring engine with automated cross-platform scanning and JSON/TXT reporting.
+
+### [Linux System Maintenance Script](https://github.com/zzddf656666/linux-maintain)
+* Developed a safe, idempotent shell script for automated system maintenance across Debian, Ubuntu, and Kali Linux environments.
+* Streamlined routine updates, package management, and system cleanup to ensure optimal performance and security posture.
 
 ## 🎓 Education
 * **B.Sc. in Computer Science - Networking & Cybersecurity** | Dual Degree: Arab Open University & The Open University (UK) (2021-2026)
