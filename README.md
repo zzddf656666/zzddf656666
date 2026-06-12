@@ -1,8 +1,9 @@
-# Hi there, I'm Abdelrahman Fekry El-Maghraby 👋
+<h1 align="center">Hi there, I'm Abdelrahman Fekry El-Maghraby 👋</h1>
+<h3 align="center">Cybersecurity Specialist | Penetration Testing | Cloud & Kubernetes Security</h3>
 
-### Cybersecurity Specialist | Penetration Testing | Cloud & Kubernetes Security
-
-Cybersecurity professional combining hands-on offensive security and OSINT with a strong network and systems foundation. Recently chained web, container, and Kubernetes flaws to reach a live cloud cluster's data plane, and built an AI-assisted ransomware detector.
+<p align="center">
+  Cybersecurity professional combining hands-on offensive security and OSINT with a strong network and systems foundation. Recently chained web, container, and Kubernetes flaws to reach a live cloud cluster's data plane, and built an AI-assisted ransomware detector.
+</p>
 
 ---
 
