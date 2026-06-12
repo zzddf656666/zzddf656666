@@ -35,7 +35,7 @@
 - Multi-layered scanner for PDF and Word documents: fuses a local malware-hash dataset (chunked MD5/SHA-256 hashing), VirusTotal multi-engine reputation, and LLM semantic analysis into a single 0-10 severity score.
 - Hardened the LLM layer against prompt injection (system/user role isolation, temperature 0) and kept all API keys in a local `.env`, never in code.
 - OCR fallback (Tesseract + Poppler) for scanned/image-only PDFs, scheduled background scans, and cross-platform autostart at login - Windows registry, macOS launchd, Linux systemd - on x86_64 and ARM64.
-- Detailed JSON report + human-readable TXT summary per scan.
+- Desktop GUI (customtkinter dark dashboard: live scan progress, per-layer results, report browser) alongside the fully independent CLI; detailed JSON + TXT report per scan.
 
 ### [Linux System Maintenance Script](https://github.com/zzddf656666/linux-maintain)
 
