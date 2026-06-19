@@ -17,7 +17,7 @@
 
 ## whoami
 
-Cybersecurity professional pairing hands-on **offensive security** and **OSINT** with a strong network and systems foundation. Recently chained web, container, and Kubernetes flaws to reach a live Amazon EKS cluster's data plane, and built an AI-assisted ransomware detector. B.Sc. in Computer Science (Networking & Cybersecurity); **CEH** and **NDE** certified.
+Cybersecurity professional pairing hands-on **offensive security** and **OSINT** with a strong network and systems foundation. Recently chained web, container, and Kubernetes flaws to reach a live Amazon EKS cluster's data plane, and built an AI-assisted ransomware detector. B.Sc. in Computer Science (Networking & Cybersecurity); **CEH** certified.
 
 I work the full attack chain — web exploitation → RCE → container foothold → **Kubernetes RBAC abuse, lateral movement, and privilege escalation** — and build the defensive tooling to match.
 
