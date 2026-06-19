@@ -89,7 +89,7 @@ I work the full attack chain — web exploitation → RCE → container foothold
 
 ## 📫 Connect
 
-- **LinkedIn:** [Abdelrahman El-Maghraby](https://www.linkedin.com/in/abdelrahman-el-maghraby-994a8b226/)
+- **LinkedIn:** [Abdelrahman El-Maghraby](https://www.linkedin.com/in/abdelrahman-el-maghraby/)
 - **Hack The Box:** [Profile](https://profile.hackthebox.com/profile/019e1eae-dc09-7174-9efb-4309ba61f873)
 - **TryHackMe:** [Profile](https://tryhackme.com/p/maghraby6271)
 - **YouTube:** [OSINT Introduction Session](https://youtu.be/b_X51kkBIq4)
