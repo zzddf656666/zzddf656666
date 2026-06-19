@@ -81,10 +81,10 @@ I work the full attack chain — web exploitation → RCE → container foothold
 ## 📜 Certifications
 
 - **CEH** — Certified Ethical Hacker (EC-Council)
-- **NDE** — Network Defense Essentials (EC-Council)
-- **CCNA** — National Telecommunication Institute (NTI)
-- **Linux 100: Fundamentals** — TCM Security (2026)
 - **Network Security** — Cisco
+- **CCNA** — National Telecommunication Institute (NTI)
+- **NDE** — Network Defense Essentials (EC-Council)
+- **Linux 100: Fundamentals** — TCM Security (2026)
 - **Introduction to Cybersecurity** — Cisco
 
 ## 📫 Connect
